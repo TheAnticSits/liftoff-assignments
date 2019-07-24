@@ -20,6 +20,7 @@ Click on date for what to do today.
 Java
 Intellij
 MVC
+Trello @ken47780874
 SpringBoot
 Gradle
 Thymeleaf
