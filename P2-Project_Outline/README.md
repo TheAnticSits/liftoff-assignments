@@ -1,5 +1,5 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
+
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
@@ -7,11 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Organizational app that allows you to plug in the things you want to get done each day.  Allows the user to rank the items by importance.  Then each day you can click on the day you want to review or the ay you are at and you can see the list of things to do in order of importance.
+
 ### Features
-Include Features here
+Login
+Add and remove items from Database
+view items based on login and order of importance
+Place and put how much time you have and how much is used
+Click on date for what to do today.
+
 ### Technologies
-Include Technologies here
+Java
+Intellij
+MVC
+SpringBoot
+Gradle
+Thymeleaf
+MAMP
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to utilize dates with a database
