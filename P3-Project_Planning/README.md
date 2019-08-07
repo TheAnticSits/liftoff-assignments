@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
+Located in "New Folder" folder above
 https://app.moqups.com/GjLH2T0fHr/edit/page/aa9df7b72
 
 ### Project Tracker
